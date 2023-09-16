@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/743059440613326968/1152564550714011748/full-stack-development.gif)](https://github.com/debidatta1)
 <h1 align="center">Hi 👋, I'm Debidatta Mohanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/743059440613326968/1152567031296708648/develop-web.gif">
