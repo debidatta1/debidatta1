@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Python**
 
-- 👯 I’m looking to collaborate on **Open Source Project, Blockchain Projects, Web Development Projects**
+- 👯 I’m looking to collaborate on **Open Source Project, Web Development Projects**
 
 - 🤝 I’m looking for help with **Internships and Opportunity and Building a coding community**
 
