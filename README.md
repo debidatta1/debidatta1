@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=debidatta1&theme=whatsapp-dark2" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=debidatta1&show_icons=true&theme=whatsapp-dark2" alt="readme stats" />
+  <img src="https://streak-stats.demolab.com?user=debidatta1&theme=graywhite&border_radius=10&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-mocha-five-32.vercel.app/api?username=debidatta1&count_private=true&show_icons=true&theme=graywhite&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-debidattas-projects.vercel.app/api/top-langs/?username=debidatta1&langs_count=8&layout=compact&theme=graywhite&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://buymeacoffee.com/debidatta' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
